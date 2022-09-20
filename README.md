@@ -1,5 +1,1 @@
-$where['(
-                EXISTS (select 1 from data_surat_disposisi dsd where dsd.id_surat_kirim = data_surat_kirim.id and dsd.dibuat_oleh = "' .  $this->data->info->user->id . '")
-                OR data_surat_disposisi.hadir = true
-                )'
-            ] = null;
+<a href="https://app.daily.dev/iamsuherman_"><img src="https://api.daily.dev/devcards/162b40e822934f41a7a82442d73cfb55.png?r=lia" width="400" alt="Iam Suherman's Dev Card"/></a>
